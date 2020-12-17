@@ -4,8 +4,9 @@
 }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 body{
-    background: url("/home/emuta/Documents/simple-services/images/master-logo.png");
-    background: linear-gradient(to right, #23555c, #21a0ab);
+    background: url("/home/emuta/Documents/simple-services/images/master-logo.png"); 
+    background-repeat: no-repeat;
+    background-size: auto;
     font-family: 'Roboto', sans-serif;
     margin: 0;
     font-size: 15px;
